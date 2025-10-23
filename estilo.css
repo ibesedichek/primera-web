@@ -1,0 +1,23 @@
+body{
+    background-color:cadetblue
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.9em;
+    color:black;
+}
+
+.subparrafo {
+    font-size: 1.2em;
+    color:black;
+}
+
+#final {
+    color:azure;
+}
