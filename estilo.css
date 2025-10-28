@@ -3,18 +3,18 @@ body{
 }
 
 img {
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 0.9em;
+    font-size: 0.20em;
     color:black;
 }
 
 .subparrafo {
-    font-size: 1.2em;
+    font-size: 0.6em;
     color:black;
 }
 
